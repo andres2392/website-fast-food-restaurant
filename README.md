@@ -1,2 +1,2 @@
 # WebsitenFast Food Restaurant 
- WebsitenFast Food Restaurant 
+ Website Fast Food Restaurant 
